@@ -1,7 +1,8 @@
-package com.imaginarynationalpark
+package com.imaginarynationalpark.view.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.imaginarynationalpark.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
