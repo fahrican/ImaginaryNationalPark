@@ -15,7 +15,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:elevation="8dp"
         android:minHeight="?listPreferredItemHeightLarge"
         android:padding="8dp"
         app:cardCornerRadius="4dp">
@@ -30,6 +29,7 @@
                 android:layout_width="64dp"
                 android:layout_height="64dp"
                 android:layout_margin="8dp"
+                android:contentDescription="@string/image_of_a_tour"
                 app:imageUrl="@{item.thumb}"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
