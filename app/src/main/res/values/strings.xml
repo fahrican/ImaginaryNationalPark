@@ -4,4 +4,6 @@
     <string name="filter_top_five">TOP 5</string>
     <string name="no_wifi_text">It seems you have no WIFI connection!</string>
     <string name="retry_button">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
