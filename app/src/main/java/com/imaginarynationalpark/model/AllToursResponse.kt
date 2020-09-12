@@ -1,3 +1,3 @@
-package com.imaginarynationalpark.view.model
+package com.imaginarynationalpark.model
 
 data class AllToursResponse(val data: Data?)

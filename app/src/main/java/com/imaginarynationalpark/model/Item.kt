@@ -1,4 +1,4 @@
-package com.imaginarynationalpark.view.model
+package com.imaginarynationalpark.model
 
 import android.os.Parcel
 import android.os.Parcelable
